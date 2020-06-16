@@ -1,0 +1,6 @@
+/target
+<<<<<<< HEAD
+target/m2e-wtp/web-resources/META-INF/maven/penjualan/penjualan/pom.properties
+=======
+/src/main/resources/META-INF/spring/app-config.xml
+>>>>>>> dc5f96d2c87cf761a27cf001479559745ed9389a
